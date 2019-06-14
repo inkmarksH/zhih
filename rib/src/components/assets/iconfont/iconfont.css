@@ -1,0 +1,65 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont.ttf'); /* IE9 */
+  src: url('./iconfont.ttf') format('embedded-opentype'), /* IE6-IE8 */
+  url('./iconfont.ttf') format('woff'),
+  url('iconfont.woff?t=1559995897142') format('woff'),
+  url('./iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('./iconfont.ttf') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.aicon-weibiaoti1:before {
+  content: "\e600";
+}
+
+.aicon-fanhui:before {
+  content: "\e614";
+}
+
+.aicon-fenxiang3:before {
+  content: "\e63f";
+}
+
+.aicon-comment:before {
+  content: "\e607";
+}
+
+.aicon-xiazai:before {
+  content: "\e7bd";
+}
+
+.aicon-xingxing1:before {
+  content: "\e610";
+}
+
+.aicon-lingdang:before {
+  content: "\e8c0";
+}
+
+.aicon-dianzan:before {
+  content: "\e627";
+}
+
+.aicon-dianping:before {
+  content: "\e61b";
+}
+
+.aicon-dashujukeshihuaico-:before {
+  content: "\e7fb";
+}
+
+.aicon-zhedie:before {
+  content: "\e643";
+}
+
+.aicon-sousuo:before {
+  content: "\e646";
+}
+
